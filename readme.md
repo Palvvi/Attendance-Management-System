@@ -1,4 +1,5 @@
 #Attendance Management System
+
 An attendance management system (AMS) is an advanced software solution
 that has been developed to track, record, and manage attendance digitally.
 The admin or teachers can mark the attendance of students, add the students,
